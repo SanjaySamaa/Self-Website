@@ -121,8 +121,8 @@ a>img:hover{
     font-size: 20px;
     margin: 0;
 }
-@media (max-width: 1000px){
+/* @media (max-width: 1000px){
  body{
     min-width: 1000px;
  }
-}
+} */
